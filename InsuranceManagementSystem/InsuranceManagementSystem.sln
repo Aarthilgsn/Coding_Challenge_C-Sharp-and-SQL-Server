@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceManagementSystem", "InsuranceManagementSystem.csproj", "{F1EE35F9-85BA-4794-8367-EAAB389807DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceManagementsystem.Tests", "..\InsuranceManagementsystem.Tests\InsuranceManagementsystem.Tests.csproj", "{BD6D16DD-8CF7-4691-AC11-7A97BE3D60DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EE35F9-85BA-4794-8367-EAAB389807DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EE35F9-85BA-4794-8367-EAAB389807DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EE35F9-85BA-4794-8367-EAAB389807DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EE35F9-85BA-4794-8367-EAAB389807DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6D16DD-8CF7-4691-AC11-7A97BE3D60DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6D16DD-8CF7-4691-AC11-7A97BE3D60DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6D16DD-8CF7-4691-AC11-7A97BE3D60DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6D16DD-8CF7-4691-AC11-7A97BE3D60DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED206B22-5716-4B26-8E70-2348D945DAD1}
+	EndGlobalSection
+EndGlobal
